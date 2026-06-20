@@ -22,8 +22,8 @@ This repository documents the comprehensive exercises completed during the Java 
 
 ---
 ## Submission Evidence
-- **Verification Success**: ![Verification](screenshots/verification-success.png)
-- **Logging Success**: ![Logging](screenshots/logging-success.png)
+- **Verification Success** : Screenshot Attached
+- **Logging Success**: Screenshot attached
 - JUnit 5
 - Mockito
 - SLF4J & Logback
